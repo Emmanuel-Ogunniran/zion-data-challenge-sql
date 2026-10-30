@@ -55,4 +55,4 @@ MySQL 8 (CTEs, window functions, `STR_TO_DATE`, `CASE` logic, mapping tables).
 
 ## Author
 
-[Your name] | [LinkedIn link] | [Email]
+ Emmanuel Oluwasegun Ogunniran | https://www.linkedin.com/in/emmanuel-ogunniran-984143294/ | emmanuelogunniran04@gmail.com
